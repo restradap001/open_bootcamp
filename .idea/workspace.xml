@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f33ffe4a-8b8c-4cbe-b149-09ba221fbe61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open_bootcamp.iml" afterDir="false" />
+    <list default="true" id="f33ffe4a-8b8c-4cbe-b149-09ba221fbe61" name="Changes" comment="ejercicios de funciones">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +44,13 @@
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.uno">
-    <configuration name="dos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduccion.funciones.dos" />
+  <component name="RunManager" selected="Application.cinco">
+    <configuration name="cinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.sentencias_de_control.cinco" />
       <module name="open_bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduccion.funciones.*" />
+          <option name="PATTERN" value="introduccion.sentencias_de_control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +58,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduccion.funciones.uno" />
+    <configuration name="cuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.sentencias_de_control.cuatro" />
       <module name="open_bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduccion.funciones.*" />
+          <option name="PATTERN" value="introduccion.sentencias_de_control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="introduccion.sentencias_de_control.dos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.sentencias_de_control.dos" />
+      <module name="open_bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduccion.sentencias_de_control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="introduccion.sentencias_de_control.uno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.sentencias_de_control.uno" />
+      <module name="open_bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduccion.sentencias_de_control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.sentencias_de_control.tres" />
+      <module name="open_bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduccion.sentencias_de_control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.uno" />
-        <item itemvalue="Application.introduccion.funciones.dos" />
+        <item itemvalue="Application.cinco" />
+        <item itemvalue="Application.cuatro" />
+        <item itemvalue="Application.tres" />
+        <item itemvalue="Application.introduccion.sentencias_de_control.dos" />
+        <item itemvalue="Application.introduccion.sentencias_de_control.uno" />
       </list>
     </recent_temporary>
   </component>
@@ -92,11 +128,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656541978029</updated>
-      <workItem from="1656541989970" duration="1722000" />
+      <workItem from="1656541989970" duration="4003000" />
     </task>
+    <task id="LOCAL-00001" summary="ejercicios de funciones">
+      <created>1656543914010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656543914010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicios de funciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios de funciones" />
   </component>
 </project>
